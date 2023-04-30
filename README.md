@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Web Developer from India</h3>
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="thekhalidsha" width="400" align="right">
 
-- 🔭 I’m currently working on [Instanza](Private Repo)
+- 🔭 I’m currently working on [Instanza](Private Project)
 
 - 🌱 I’m currently learning **NodeJs, Backend & DevOps Technologies**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **thekhalidsha@gmail.com**
 
-- 📄 Know about my experiences [My Resume (PDF)](https://github.com/thekhalidsha/thekhalidsha/portfolio/thekhalidsha_resume.pdf)
+- 📄 Know about my experiences [My Resume (PDF)](https://github.com/thekhalidsha/thekhalidsha/raw/main/portfolio/thekhalidsha_resume.pdf)
 
 - ⚡ Fun fact **Sometimes Music Completes My Codes!**
 
