@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJs, Backend & DevOps Technologies**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://thekhalidsha.github.io/portfolio.html)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://thekhalidsha.github.io/index.html)
 
 - 💬 Ask me about **PHP, Python, NextJs, HTML, Bootstrap**
 
